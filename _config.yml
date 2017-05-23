@@ -1,25 +1,25 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
+title:            ESCOBAR BLOG
+description:      Apreciaciones personales.
+disqus_shortname: daeshu
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url:https://daniel.escobar.eu.org
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Escobar
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "Este es mi nuevo blog alojado en Github."
+  email:          daniel@escobar.eu.org
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        DanielEscobarW
   facebook:       
-  github:         
+  github:         daeshu
   stackexchange:  
   linkedin:       
-  instagram:      
+  instagram:      daeshua
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
